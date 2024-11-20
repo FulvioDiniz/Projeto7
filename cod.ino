@@ -3,11 +3,11 @@
 #include <FirebaseClient.h>
 #include <Adafruit_AHTX0.h>
 
-#define WIFI_SSID "Barbosa"
-#define WIFI_PASSWORD "repolhow"
-#define API_KEY "AIzaSyDG-PWJiR6fsdZDMW-y7QoRW-1HhN4q_w4"
-#define USER_EMAIL "fulvio.santos@estudante.iftm.edu.br"
-#define USER_PASSWORD "325567636tor3910934O"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 #define DATABASE_URL "https://projeto-7-1806-default-rtdb.firebaseio.com/"
 #define RELAY_PIN D3
 #define RELAY_PIN2 D4
